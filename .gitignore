@@ -7,12 +7,7 @@
 .idea/
 *.log
 settings.py
-*.jpg
-*.jpeg
-*.png
-*.gif
-*.tga
-*.ico
+
 *.rar
 *.zip
 *.tgz
@@ -21,3 +16,6 @@ COMMANDS.md
 *.swp
 *.txt
 *.local
+
+flower_photos/
+plants/
