@@ -6,6 +6,9 @@ Paysafe Hackathon 2018
 - AI module:  TensorFlow and ImageNET
 - Server:     AWS GPU instance (16 x CPU, 32 GB RAM)
 
+# Product splash:
+![Multiple products image recognition](https://raw.githubusercontent.com/PaysafeHackathon2018/next/master/presentation/product_splash.png)
+
 # Product description:
 NEXT is a white-label mobile POS product for small and medium businesses in developing countries.
 
@@ -19,3 +22,13 @@ The final result appears on the screen of the cashier's mobile app and he/she is
 # Benefits
 NEXT eliminates the need to mark retail products one by one.
 It also serves as a total replacement for the POS hardware, by replacing it with a client and server application.
+
+# Dataset:
+2 classes of products:
+- KitKat Classic
+- KitKat White
+
+# Author
+Murad Kasim 
+mkasim@uni-sofia.bg
+FMI, Sofia University
