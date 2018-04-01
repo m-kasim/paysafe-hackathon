@@ -7,3 +7,13 @@
 .idea/
 *.log
 settings.py
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.tga
+*.ico
+*.rar
+*.zip
+*.tgz
+*.py~
