@@ -17,3 +17,7 @@ settings.py
 *.zip
 *.tgz
 *.py~
+COMMANDS.md
+*.swp
+*.txt
+*.local
