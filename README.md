@@ -30,7 +30,13 @@ I am using a data set of the popular snack "KitKat" which has a classic and whit
 - KitKat Classic (30 training examples, manually created and optimized)
 - KitKat White   (30 training examples, manually created and optimized)
 
-Using this trianed model we are able to recognize the product's subbrand variations correctly with our trained Neural Network.
+# Training:
+The training takes about 5-10 minutes on a machine with no GPU.
+Using this trained model we are able to recognize the product's subbrand variations correctly with our trained Neural Network.
+
+![TensorFlow results](
+https://github.com/PaysafeHackathon2018/next/raw/master/presentation/product_detect.png)
+
 
 # Author
 Murad Kasim
