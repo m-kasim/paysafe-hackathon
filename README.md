@@ -22,13 +22,19 @@ The final result appears on the screen of the cashier's mobile app and he/she is
 # Benefits
 NEXT eliminates the need to mark retail products one by one.
 It also serves as a total replacement for the POS hardware, by replacing it with a client and server application.
+This reduces the initial investment cost (of purchasing a POS hardware) for small merchants and provides them the
+opportunity to carry out their business only via the NEXT mobile API and their mobile phones.
 
 # Dataset:
-2 classes of products:
-- KitKat Classic
-- KitKat White
+I am using a data set of the popular snack "KitKat" which has a classic and white cholocate variations.
+- KitKat Classic (30 training examples, manually created and optimized)
+- KitKat White   (30 training examples, manually created and optimized)
+
+Using this trianed model we are able to recognize the product's subbrand variations correctly with our trained Neural Network.
 
 # Author
-Murad Kasim 
+Murad Kasim
+
 mkasim@uni-sofia.bg
+
 FMI, Sofia University
