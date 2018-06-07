@@ -7,7 +7,7 @@ Paysafe Hackathon 2018
 - Server:     AWS GPU instance (16 x CPU, 32 GB RAM)
 
 # Product splash:
-![Multiple products image recognition](https://raw.githubusercontent.com/PaysafeHackathon2018/next/master/presentation/product_splash.png)
+![Multiple products image recognition](https://raw.githubusercontent.com/m-kasim/paysafe-hackathon/master/presentation/product_splash.png)
 
 # Product description:
 NEXT is a white-label mobile POS product for small and medium businesses in developing countries.
@@ -35,8 +35,7 @@ The training takes about 5-10 minutes on a machine with no GPU.
 Using this trained model we are able to recognize the product's subbrand variations correctly with our trained Neural Network.
 
 ![TensorFlow results](
-https://github.com/PaysafeHackathon2018/next/raw/master/presentation/product_detect.png)
-
+https://github.com/m-kasim/paysafe-hackathon/raw/master/presentation/product_detect.png)
 
 # Author
 Murad Kasim
